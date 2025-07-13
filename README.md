@@ -53,10 +53,7 @@ Google Gemini API anahtarı güvenlik nedeniyle koddan kaldırılmıştır. Kend
 
 ## Ekran Görüntüsü
 > Modern ve koyu temalı arayüz ile test ve analiz panelleri.
-
-## Katkı ve Lisans
-- Katkıda bulunmak için pull request gönderebilirsiniz.
-- Bu proje MIT lisansı ile lisanslanmıştır.
+<img width="1196" height="862" alt="image" src="https://github.com/user-attachments/assets/cad87426-369b-4d7e-b610-5c929689d884" />
 
 ---
 
